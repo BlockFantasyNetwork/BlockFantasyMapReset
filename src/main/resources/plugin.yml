@@ -1,3 +1,4 @@
 name: BlockFantasyMapReset
 version: '${project.version}'
 main: net.blockf.blockfantasymapreset.BlockFantasyMapReset
+website: https://github.com/BlockFantasyNetwork/BlockFantasyMapReset
