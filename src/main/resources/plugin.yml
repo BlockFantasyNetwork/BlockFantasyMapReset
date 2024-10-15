@@ -1,0 +1,3 @@
+name: BlockFantasyMapReset
+version: '${project.version}'
+main: net.blockf.blockfantasymapreset.BlockFantasyMapReset
